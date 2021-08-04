@@ -8,5 +8,6 @@ public class UserDao {
         System.out.println("hot - fix");
         System.out.println("hot - fix2");
         System.out.println("master 1");
+        System.out.println("master 2");
     }
 }
