@@ -1,4 +1,4 @@
-package com.cq;
+package com.cq.dao;
 
 public class UserDao {
     public static void main(String[] args) {
